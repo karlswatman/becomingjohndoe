@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=becomingjohndoe" alt="becomingjohndoe" /></a> </p>
 
-- 🔭 I’m currently working on [a wordle clone](https://github.com/becomingjohndoe/wordle-clone)
+- 🔭 I’m currently working on [a Three.js portfolio project](https://github.com/becomingjohndoe/portfolio-v2)
 
-- 🌱 I’m currently learning **Python, Typescript and Tailwind.css**
+- 🌱 I’m currently learning **Three.js, Cannon.js, WebGL, Blender, Python, Typescript and Tailwind.css**
 
 - 👨‍💻 All of my projects are available at [https://karl-swatman.netlify.app/](https://karl-swatman.netlify.app/)
 
