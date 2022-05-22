@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=becomingjohndoe" alt="becomingjohndoe" /></a> </p>
 
-- 🔭 I’m currently working on [a Three.js portfolio project](https://github.com/becomingjohndoe/portfolio-v2)
+- 🔭 I’m currently working on [a Three.js portfolio project](https://github.com/becomingjohndoe/portfolio-v2) PLUS a new [APP](https://github.com/becomingjohndoe/catch-return)
 
 - 🌱 I’m currently learning **Three.js, Cannon.js, WebGL, Blender, Python, Typescript and Tailwind.css**
 
